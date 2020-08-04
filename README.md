@@ -1,4 +1,4 @@
-# fullstackforce.github.io
+# fullstackable.github.io
 
 ## My personal portfolio
 
@@ -11,7 +11,7 @@
   
   This repo show my all my works.
 
-![Image of FullStackForce](https://i.postimg.cc/zDxzYFcx/myprofile.png)
+![Image of FullStackable](https://i.postimg.cc/zDxzYFcx/myprofile.png)
 
 Check all my works  - Click!
-[HERE](https://fullstackforce.github.io/)
+[HERE](https://fullstackable.github.io/)
